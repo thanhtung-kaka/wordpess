@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; ThanhTung &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; Shop Nike T&amp;T &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://thanhtung-kaka.github.io/wordpess/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://thanhtung-kaka.github.io/wordpess/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://thanhtung-kaka.github.io/wordpess/wp-content/uploads/2021/09/logo.png" sizes="32x32">
+<link rel="icon" href="https://thanhtung-kaka.github.io/wordpess/wp-content/uploads/2021/09/logo.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://thanhtung-kaka.github.io/wordpess/wp-content/uploads/2021/09/logo.png">
+<meta name="msapplication-TileImage" content="https://thanhtung-kaka.github.io/wordpess/wp-content/uploads/2021/09/logo.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -51,7 +55,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://thanhtung-kaka.github.io/wordpess/">&larr; Quay lại ThanhTung</a>		</p>
+			<a href="https://thanhtung-kaka.github.io/wordpess/">&larr; Quay lại Shop Nike T&amp;T</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://thanhtung-kaka.github.io/wordpess/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://thanhtung-kaka.github.io/wordpess/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -90,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://thanhtung-kaka.github.io/wordpess/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"1daabb1eaf"};
+var userProfileL10n = {"user_id":"0","nonce":"814475a2f9"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
